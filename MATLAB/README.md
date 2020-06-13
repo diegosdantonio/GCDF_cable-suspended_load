@@ -1,4 +1,4 @@
-# Matlab simulation
+# Matlab simulation and implementation 
 ### Geometric Control and Differential Flatness of a Quadrotor UAV with a Cable-Suspended Load
 *Koushil Sreenath, Taeyoung Lee, Vijay Kumar*
 
@@ -10,9 +10,9 @@
   git clone https://github.com/diegosdantonio/GCDF_cable-suspended_load
   ```
 
-### Plots MATLAB
-![Trajectory](MATLAB/figures/quad.jpg)
-![Trajectory](MATLAB/figures/QuadAnimated.gif)
+### Plots
+![Trajectory](figures/quad.jpg)
+![Trajectory](figures/QuadAnimated.gif)
 
 
 For more details see https://github.com/vkotaru/quad_geometric_control
